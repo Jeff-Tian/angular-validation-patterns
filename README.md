@@ -1,3 +1,8 @@
+## Install
+```
+npm install angular-validation-patterns
+```
+
 ## Usage
 ```
 angular.module('yourModule', ['validationModule'])

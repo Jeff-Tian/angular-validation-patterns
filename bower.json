@@ -1,0 +1,17 @@
+{
+  "name": "angular-validation-patterns",
+  "homepage": "https://github.com/Jeff-Tian/angular-validation-patterns",
+  "authors": [
+    "田杰 <jefftian@hcdlearning.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

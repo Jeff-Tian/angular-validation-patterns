@@ -1,6 +1,6 @@
 ## Install
 ```
-npm install angular-validation-patterns
+bower install angular-validation-patterns --save
 ```
 
 ## Usage
